@@ -1,0 +1,3 @@
+method,buildmsTimes,memorySize,avgQueryTimes
+Trie,3249.03,113420,5754.6
+Hash Table,2987.84,38311,130353
